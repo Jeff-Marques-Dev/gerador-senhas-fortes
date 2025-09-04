@@ -26,4 +26,4 @@ Mesmo utilizando tecnologias web básicas como **HTML, CSS e JavaScript**, o pro
 ### 🚀 Como Usar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/Jeferson-Marques-Dev/gerador-senhas-fortes.git
+   https://github.com/Jeferson-Marques-Dev/gerador-senhas-fortes.git
