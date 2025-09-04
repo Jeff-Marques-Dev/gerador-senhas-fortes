@@ -1,10 +1,16 @@
 <h1 align="center">Gerador de Senhas Fortes 🔐</h1>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39635734/82733390-d26ea100-9ce9-11ea-8c9e-e66e80e7d83b.gif" width="900" height="200" alt="Matrix Header"/>
+</p>
+
 ---
 
 ### 💡 Sobre o Projeto
-Este projeto é um **gerador de senhas fortes**, criado para aumentar a segurança de contas online.  
-O usuário pode gerar senhas aleatórias com **números, letras maiúsculas, minúsculas e símbolos especiais**.
+Em um mundo cada vez mais digital, a **segurança das nossas informações é essencial**.  
+Este gerador de senhas fortes oferece uma solução simples, porém **poderosa**, permitindo criar **senhas complexas** que aumentam a proteção de contas online.  
+
+Mesmo utilizando tecnologias web básicas como **HTML, CSS e JavaScript**, o projeto demonstra como é possível gerar **proteção real e prática para os dados dos usuários**, tornando a segurança **acessível e eficaz**.  
 
 ---
 
